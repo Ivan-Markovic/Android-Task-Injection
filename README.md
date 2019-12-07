@@ -13,3 +13,7 @@ And for/from developers:
 - https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en
 - https://developer.android.com/guide/components/activities/tasks-and-back-stack
 - https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe
+
+Video:
+
+- https://www.youtube.com/watch?v=yI0Xh5Oc0x4
