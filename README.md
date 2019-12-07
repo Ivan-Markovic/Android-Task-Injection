@@ -16,4 +16,6 @@ And for/from developers:
 
 Video:
 
+- https://www.youtube.com/watch?v=IYGwXFIYdS8
+- https://www.youtube.com/watch?v=HPfT9miU_rY
 - https://www.youtube.com/watch?v=yI0Xh5Oc0x4
