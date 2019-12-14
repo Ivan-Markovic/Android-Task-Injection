@@ -1,5 +1,5 @@
 # Android Task Injection POC
-Task Hijacking in Android (somebody call it also StrandHogg)
+Task Hijacking in Android (somebody call it also StrandHogg vulnerability)
 
 More details:
 
